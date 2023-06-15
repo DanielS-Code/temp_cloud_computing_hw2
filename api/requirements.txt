@@ -1,0 +1,13 @@
+Jinja2
+MarkupSafe
+requests
+urllib3
+Werkzeug
+importlib-metadata
+itsdangerous
+zipp
+certifi
+charset-normalizer
+click
+Flask
+idna

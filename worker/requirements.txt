@@ -1,0 +1,12 @@
+jmespath
+python-dateutil
+charset-normalizer
+ec2-metadata
+idna
+requests
+s3transfer
+botocore
+certifi
+six
+urllib3
+boto3
